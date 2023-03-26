@@ -695,11 +695,18 @@ section .container {
 
 .btn {
   background: linear-gradient(-45deg, #575558, #2c3333);
-  margin: 0 0 20px 250px;
+  margin: 0 0 10px 180px;
   ;
-  padding: 10px;
+  padding: 2px;
 }
 
+@media(min-width: 768px) {
+  .btn {
+    margin: 0 0 20px 250px;
+    ;
+    padding: 10px;
+  }
+}
 
 
 
