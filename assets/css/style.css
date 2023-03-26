@@ -695,7 +695,7 @@ section .container {
 
 .btn {
   background: linear-gradient(-45deg, #575558, #2c3333);
-  margin: 0 0 10px 180px;
+  margin: 10px 0 40px 140px;
   ;
   padding: 2px;
 }
